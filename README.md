@@ -1,7 +1,5 @@
-# Mini projet e-commerce
+# Mini projet e-commerce - [AquaRider](https://jlancon8.github.io/mini-projet_e-commerce/)
 
-## AquaRider 
-[Lien vers le site de e-commerce](https://jlancon8.github.io/mini-projet_e-commerce/)
 
 ### Présentation :
 Lors de ma première année en BUT informatique, j'ai pu mettre application tout ce que j'ai appris au cours de la matière de développement Web dans un mini projet ayant pour but de créer un mini site d'e-commerce responsive sur le sujet de notre choix (interactif ou non), à l'aide de maquettes déjà faites par le professeur, dans un groupe de 4 étudiants. Ce site a pour but de ressembler aux nombreux site marchand déjà existant, c'est à dire qu'il contient une page d'accueil, une présentation du produit, une boutique, un panier, etc.. Ce site de e-commerce est donc codé en HTML, en CSS et en JS afin de la rendre intéractive.
