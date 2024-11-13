@@ -10,7 +10,7 @@ Après une réflexion collective, nous avons choisi le thème des planches de su
 
 ## Ma mission
 
-Dans ce projet, chaque étudiant était chargé de développer une page spécifique. J'ai réalisé la page de [présentation du produit](https://lucasproject25.github.io/AquaRider/Site/produits.html). Cette page, accessible depuis le panier, affiche le produit avec son prix, sa description et son image sous forme de carrousel. Elle permet aussi de sélectionner la quantité et la taille du produit, ainsi que de l'ajouter au panier ou de l'acheter immédiatement.
+Dans ce projet, chaque étudiant était chargé de développer une page spécifique. J'ai réalisé la page de présentation du [produit](https://lucasproject25.github.io/AquaRider/Site/produits.html). Cette page, accessible depuis le panier, affiche le produit avec son prix, sa description et son image sous forme de carrousel. Elle permet aussi de sélectionner la quantité et la taille du produit, ainsi que de l'ajouter au panier ou de l'acheter immédiatement.
 
 **Remarque :** *Les boutons sont inactifs, car AquaRider est un site vitrine sans fonctionnalité de back-end. La navigation entre les pages est assurée uniquement par la barre de menu.*
 
