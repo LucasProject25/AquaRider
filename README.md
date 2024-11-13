@@ -1,16 +1,17 @@
-# Mini projet e-commerce - [AquaRider](https://lucasproject25.github.io/AquaRider/Site/index.html)
+# Mini Projet E-commerce - [AquaRider](https://lucasproject25.github.io/AquaRider/Site/index.html)
 
 ## Présentation
-Lors de ma première année en BUT informatique, j'ai pu mettre en **application** tout ce que j'ai appris, au cours de la matière de __développement Web__, dans un mini projet ayant pour but de **créer un mini site d'e-commerce responsive** sur le sujet de notre choix (interactif ou non), à l'aide de **maquettes déjà faites par le professeur**, dans un groupe de 4 étudiants. Ce site a pour but de ressembler aux nombreux site marchand déjà existant, c'est à dire qu'il contient une page d'accueil, une présentation du produit, une boutique, un panier, etc..
 
-Après avoir réfléchit entre nous, nous avions décidés de présenter un site vendant des planches de Surf, d'où le nom **AquaRider**. Ce site de e-commerce est donc codé en HTML, en CSS et en JS afin de rendre la page intéractive. 
+Durant ma première année de BUT informatique, j'ai eu l'opportunité d'appliquer mes compétences en **développement web** dans un mini-projet consistant à créer un **site e-commerce responsive**. En équipe de quatre étudiants, nous avons conçu ce site en nous basant sur des **maquettes fournies par le professeur**. Le projet visait à reproduire l'expérience d'un site marchand, avec des pages pour l'accueil, la présentation des produits, la boutique, le panier, etc.
 
-**Remarque :** *AquaRider est seulement un site vitrine, il n'y a pas de serveur.* 
+Après une réflexion collective, nous avons choisi le thème des planches de surf, d'où le nom **AquaRider**. Le site est entièrement codé en HTML, CSS et JavaScript pour offrir une expérience utilisateur interactive.
+
+**Remarque :** *AquaRider est un site vitrine sans serveur, il ne gère donc pas de transactions réelles.*
 
 ## Ma mission
-Lors de ce mini projet, chaque étudiant devait réaliser une page avec un thème déjà fournit. Par exemple, pour ma part, j'ai du réaliser la page présentant le [produit](https://lucasproject25.github.io/AquaRider/Site/produits.html) lorsqu'on le sélectionne dans le panier, ainsi, lorsque l'on arrive sur la page, le produit est présenté avec son prix, sa description et son image sous forme de carousel, de plus, il y a la possibilité de mettre le nombre à commander ainsi que la taille avec la possibilité de mettre dans le panier ou d'acheter tout de suite.
 
-**Remarque :** *Les boutons ne fonctionnent pas car, comme mentionné précédemment, ce site est un site vitrine. Les autres pages ne communiquent pas entre elles (sauf pour la navbar).*
+Dans ce projet, chaque étudiant était chargé de développer une page spécifique. J'ai réalisé la page de [présentation du produit](https://lucasproject25.github.io/AquaRider/Site/produits.html). Cette page, accessible depuis le panier, affiche le produit avec son prix, sa description et son image sous forme de carrousel. Elle permet aussi de sélectionner la quantité et la taille du produit, ainsi que de l'ajouter au panier ou de l'acheter immédiatement.
 
-PS : Les pages & éléments réalisés compte également leurs versions responsive
+**Remarque :** *Les boutons sont inactifs, car AquaRider est un site vitrine sans fonctionnalité de back-end. La navigation entre les pages est assurée uniquement par la barre de menu.*
 
+**Note :** Toutes les pages et éléments sont également optimisés en version responsive.
